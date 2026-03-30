@@ -1,9 +1,10 @@
 <!-- Header Animation -->
+<h1 align="center">Hi 👋, I'm Veeranna </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Veeranna+Sulikeri;Executive+Technical+Product+Manager;Product+Research+%26+Development+Engineer;15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch;%2430M%2B+ARR+%7C+AI+%7C+Supply+Chain+%7C+SaaS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=AI+Technical+Product+Manager;Product+Research+%26+Development+Engineer;15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch;%2430M%2B+ARR+%7C+AI+%7C+Supply+Chain+%7C+SaaS" alt="Typing SVG" />
 </p>
 
-<h3 align="center">Executive Technical Product Manager | Product Research & Development Engineer | AI & Supply Chain Innovator</h3>
+<h2 align="center">My career uniquely bridges the gap between **strategic product vision** and **hands-on technical development** — allowing me to not only define what to build and why, but also deeply understand how to build it, scale it, and bring it to market.</h2>
 
 <!-- Social Badges -->
 <p align="center">
@@ -33,8 +34,6 @@
 ## 🧑‍💼 About Me
 
 I am an **Executive Technical Product Manager and Development Engineer** with over **15 years of cross-functional experience** spanning product research, product management, and full-stack software engineering at global leaders including **SAP, IBM, and Bosch**.
-
-My career uniquely bridges the gap between **strategic product vision** and **hands-on technical development** — allowing me to not only define what to build and why, but also deeply understand how to build it, scale it, and bring it to market.
 
 **Product Research & Management:** Led end-to-end product strategy and go-to-market execution for B2B SaaS and enterprise platforms, generating over **$30M in annual recurring revenue** and influencing **$42M in ARR** through data-driven roadmap prioritization, customer advocacy, and cross-departmental collaboration. Shipped **14 major features in 12 months**, driven **34% increases in product adoption**, and reduced onboarding time-to-value by **52%** through UX redesign and automated provisioning. My research background includes a **Graduate Research Fellowship at IBM Germany R&D**, where I conducted hybrid cloud security research across SAP, AWS, Azure, Google, and IBM ecosystems — identifying critical vulnerabilities and publishing a white paper on **Hybrid Cloud Security Concepts**. At **Fraunhofer Institutes**, I developed IoT smart grid systems, e-learning platforms, and manufacturing analytics tools, blending academic research rigor with real-world product development.
 
@@ -323,7 +322,7 @@ Supply Chain (SBN/SCC) · CRM (Sales & Service) · ERP (S/4HANA) · AI/ML · RPA
 <br/>
 
 <p align="center">
-  <b>📍 Palo Alto, CA, USA</b> &nbsp;|&nbsp; <b>✅ No Sponsorship Required</b> &nbsp;|&nbsp; <b>🚚 Open to Relocation</b> &nbsp;|&nbsp; <b>🏢 Onsite / Hybrid</b>
+  <b>📍 Palo Alto, CA, USA</b> &nbsp;|&nbsp; <b>✅ Available</b> &nbsp;|&nbsp; <b>🚚 Open to Relocation</b> &nbsp;|&nbsp; <b>🏢 Onsite / Hybrid</b>
 </p>
 
 <br/>
