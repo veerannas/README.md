@@ -265,20 +265,7 @@ Supply Chain (SBN/SCC) · CRM (Sales & Service) · ERP (S/4HANA) · AI/ML · RPA
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veerannas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veerannas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerannas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veerannas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -286,7 +273,7 @@ Supply Chain (SBN/SCC) · CRM (Sales & Service) · ERP (S/4HANA) · AI/ML · RPA
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veerannas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veerannas&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 </p>
 
 ---
