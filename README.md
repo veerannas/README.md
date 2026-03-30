@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=AI+Technical+Product+Manager;Product+Research+%26+Development+Engineer;15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch;%2430M%2B+ARR+%7C+AI+%7C+Supply+Chain+%7C+SaaS" alt="Typing SVG" />
 </p>
 
-<h2 align="center">My career uniquely bridges the gap between **strategic product vision** and **hands-on technical development** — allowing me to not only define what to build and why, but also deeply understand how to build it, scale it, and bring it to market.</h2>
+<h2 align="center">I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it.</h2>
 
 <!-- Social Badges -->
 <p align="center">
@@ -33,15 +33,13 @@
 
 ## 🧑‍💼 About Me
 
-I am an **Executive Technical Product Manager and Development Engineer** with over **15 years of cross-functional experience** spanning product research, product management, and full-stack software engineering at global leaders including **SAP, IBM, and Bosch**.
+I am an **AI Technical Product Manager and Development Engineer** with over **15 years of cross-functional experience** spanning product research, product management, and full-stack software engineering at global leaders including **SAP, IBM, and Bosch**.
 
 **Product Research & Management:** Led end-to-end product strategy and go-to-market execution for B2B SaaS and enterprise platforms, generating over **$30M in annual recurring revenue** and influencing **$42M in ARR** through data-driven roadmap prioritization, customer advocacy, and cross-departmental collaboration. Shipped **14 major features in 12 months**, driven **34% increases in product adoption**, and reduced onboarding time-to-value by **52%** through UX redesign and automated provisioning. My research background includes a **Graduate Research Fellowship at IBM Germany R&D**, where I conducted hybrid cloud security research across SAP, AWS, Azure, Google, and IBM ecosystems — identifying critical vulnerabilities and publishing a white paper on **Hybrid Cloud Security Concepts**. At **Fraunhofer Institutes**, I developed IoT smart grid systems, e-learning platforms, and manufacturing analytics tools, blending academic research rigor with real-world product development.
 
 **Product Development Engineering:** Deep technical proficiency in **Java (full-stack), Python, AI/ML, cloud architectures (AWS, GCP, IBM), and DevOps (CI/CD, Docker, Kubernetes, Jenkins)**. Architected and delivered scalable solutions — from enterprise payment systems handling **$20M+ in annual transactions** to AI-driven supply chain platforms processing millions of EDI transactions via X12 and cXML. Reduced development cycle times by **37%**, cut deployment times by **45%**, and leveraged AI to reduce manual testing efforts by **30%**. Engineering leadership spans building converged DevOps platforms, automating RPA workflows that saved **1,200+ staff hours annually**, and directing production deployments for global brands like **Volkswagen, BMW, Sony, and ThyssenKrupp**.
 
 I hold a **Master of Science in Research in Computer & System Engineering** from Ilmenau University of Technology (Germany) and a **Bachelor of Engineering in Electronics & Computer Engineering** from Visvesvaraya Technological University (India). I am certified as a **PMI Agile Certified Professional (PMI-ACP)** and **Certified Scrum Product Owner (CSPO)**, with additional SAP certifications in CRM, Ariba, RPA, and CX.
-
-> ⚡ *"I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."*
 
 ---
 
