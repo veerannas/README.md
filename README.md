@@ -33,13 +33,13 @@
 
 ## 🧑‍💼 About Me
 
-I am an **AI Technical Product Manager and Development Engineer** with over **15 years of cross-functional experience** spanning product research, product management, and full-stack software engineering at global leaders including **SAP, IBM, and Bosch**.
+AI Technical Product Manager & Development Engineer with 15+ years at SAP, IBM, and Bosch.
 
-**Product Research & Management:** Led end-to-end product strategy and go-to-market execution for B2B SaaS and enterprise platforms, generating over **$30M in annual recurring revenue** and influencing **$42M in ARR** through data-driven roadmap prioritization, customer advocacy, and cross-departmental collaboration. Shipped **14 major features in 12 months**, driven **34% increases in product adoption**, and reduced onboarding time-to-value by **52%** through UX redesign and automated provisioning. My research background includes a **Graduate Research Fellowship at IBM Germany R&D**, where I conducted hybrid cloud security research across SAP, AWS, Azure, Google, and IBM ecosystems — identifying critical vulnerabilities and publishing a white paper on **Hybrid Cloud Security Concepts**. At **Fraunhofer Institutes**, I developed IoT smart grid systems, e-learning platforms, and manufacturing analytics tools, blending academic research rigor with real-world product development.
+Product Research & Management: Led GTM strategy for B2B SaaS/enterprise platforms — $30M+ ARR generated, $42M ARR influenced. Shipped 14 features in 12 months, 34% adoption increase, 52% faster onboarding. IBM Germany R&D Fellow (hybrid cloud security research & published white paper) and Fraunhofer Institutes contributor (IoT, smart grids, manufacturing analytics).
 
-**Product Development Engineering:** Deep technical proficiency in **Java (full-stack), Python, AI/ML, cloud architectures (AWS, GCP, IBM), and DevOps (CI/CD, Docker, Kubernetes, Jenkins)**. Architected and delivered scalable solutions — from enterprise payment systems handling **$20M+ in annual transactions** to AI-driven supply chain platforms processing millions of EDI transactions via X12 and cXML. Reduced development cycle times by **37%**, cut deployment times by **45%**, and leveraged AI to reduce manual testing efforts by **30%**. Engineering leadership spans building converged DevOps platforms, automating RPA workflows that saved **1,200+ staff hours annually**, and directing production deployments for global brands like **Volkswagen, BMW, Sony, and ThyssenKrupp**.
+Product Development Engineering: Java, Python, AI/ML, Cloud (AWS, GCP, IBM), DevOps (Docker, K8s, CI/CD). Built enterprise payment systems ($20M+ transactions) and AI supply chain platforms (X12/cXML). 37% faster dev cycles, 45% faster deployments, 1,200+ staff hours saved via RPA. Production deployments for Volkswagen, BMW, Sony, ThyssenKrupp.
 
-I hold a **Master of Science in Research in Computer & System Engineering** from Ilmenau University of Technology (Germany) and a **Bachelor of Engineering in Electronics & Computer Engineering** from Visvesvaraya Technological University (India). I am certified as a **PMI Agile Certified Professional (PMI-ACP)** and **Certified Scrum Product Owner (CSPO)**, with additional SAP certifications in CRM, Ariba, RPA, and CX.
+🎓 M.Sc. Research — Computer & System Engineering, TU Ilmenau (Germany) | B.E. and Diploma — Electronics & Computer Engineering, VTU (India)
 
 ---
 
@@ -48,27 +48,17 @@ I hold a **Master of Science in Research in Computer & System Engineering** from
 | Category | Details |
 |:---|:---|
 | 📍 **Location** | Palo Alto, CA, USA |
-| 🛂 **Work Authorization** | ✅ U.S. Permanent — **No Sponsorship Required** |
 | 🚚 **Relocation** | ✅ Open to Relocation |
 | 🏢 **Work Mode** | Onsite / Hybrid / Remote |
-| 💰 **Revenue Impact** | $30M+ ARR Generated · $42M ARR Influenced |
-| 📦 **Products Shipped** | 14 Major Features in 12 Months |
-| 👥 **Users Impacted** | 1M+ End Users · 100+ Enterprise Clients |
-| ⏱️ **On-Time Delivery** | 96% with less than 1% Rollback Rate |
-| 🎓 **Education** | M.Sc. TU Ilmenau (Germany) · B.E. VTU (India) |
-| 📜 **Certifications** | PMI-ACP · CSPO · SAP CRM · SAP Ariba · SAP RPA |
+
+| 🎓 **Education** | M.Sc. TU Ilmenau (Germany) · B.E. VTU (India) | Diploma DTE (India)
+| 📜 **Certifications** | PMI-ACP · CSPO · JAVA · Generative AI · Agentic AI · SAP CRM · SAP Ariba · SAP RPA |
 | 🏆 **Awards** | Spotlight Award · Employee of the Month · PM Scholarship |
 
 ---
 
 ## 🔭 Currently Working On
 🏢 SAP Ariba — Senior Product Manager 📦 Supply Chain Collaboration (SBN) 🤖 AI Agent Automations & Agentic Features 📊 Integrated Business Planning with S/4HANA 🎯 Customer Success Advisory & Enterprise Onboarding
-
-
----
-
-## 🏢 Career Timeline
-2023 - Present │ 🔵 Senior Product Manager │ SAP Ariba (Supply Chain AI) │ Palo Alto, CA 2021 - 2023 │ 🔵 Senior Technical Product Manager │ SAP CX (Sales/Service CRM) │ Palo Alto, CA 2020 - 2021 │ 🔵 Technical Product Manager/Owner │ SAP America (HCM/ITAM) │ Newtown Square, PA 2018 - 2020 │ 🔵 Senior Product Owner │ SAP Deutschland SE (Cloud) │ Munich, Germany 2017 - 2017 │ 🟢 Senior Java/DevOps Engineer │ SAP Hybris (E-Commerce) │ Munich, Germany 2015 - 2016 │ 🟡 Graduate Research Fellow │ IBM Germany R&D (Cloud Security) │ Boeblingen, Germany 2013 - 2016 │ 🟡 Graduate PM/Dev Intern │ TU Ilmenau / Fraunhofer │ Ilmenau, Germany 2012 - 2013 │ 🟢 Senior Software Engineer │ Sonata Software (Java Full-Stack) │ Bangalore, India 2010 - 2012 │ 🟢 Software Engineer │ EVRY SPAN Systems (Java Full-Stack) │ Bangalore, India
 
 
 ---
@@ -90,6 +80,7 @@ I hold a **Master of Science in Research in Computer & System Engineering** from
 | ✅ On-Time Delivery Rate | **96% with less than 1% Rollback** |
 | 👨‍💻 Enterprise Clients Served | **100+ including Luxottica, Bosch, Philips, TUI** |
 | 🌍 Users Impacted | **1M+ Globally** |
+| 📦 Products Shipped | **14 Major Features in 12 Months** |
 
 ---
 
