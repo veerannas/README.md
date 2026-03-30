@@ -1,6 +1,11 @@
-<h1 align="center">Hi 👋, I'm Veeranna Sulikeri</h1>
-<h3 align="center"> AI Technical Product Manager | Product Research & Development Engineer | AI & Supply Chain Innovator</h3>
-<h3 align="center"> JAVA Certified | Agentic AI Automation | RPA Automation </h3>
+<!-- Header Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E86C1&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Veeranna+Sulikeri;Executive+Technical+Product+Manager;Product+Research+%26+Development+Engineer;15%2B+Years+%7C+SAP+%7C+IBM+%7C+Bosch;%2430M%2B+ARR+%7C+AI+%7C+Supply+Chain+%7C+SaaS" alt="Typing SVG" />
+</p>
+
+<h3 align="center">Executive Technical Product Manager | Product Research & Development Engineer | AI & Supply Chain Innovator</h3>
+
+<!-- Social Badges -->
 <p align="center">
   <a href="https://linkedin.com/in/veerannas" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -11,194 +16,324 @@
   <a href="mailto:veeranna.job@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  <a href="tel:+16695296872" target="_blank">
+    <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=googlevoice&logoColor=white" alt="Phone"/>
+  </a>
 </p>
 
+<!-- Profile Metrics -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=veerannas&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=veerannas&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/veerannas?label=Followers&style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/veerannas?label=Total+Stars&style=for-the-badge&color=yellow" alt="Stars"/>
 </p>
 
 ---
 
-🔭 I'm currently working on **Product Manager - Supply Chain Collaboration - AI Agent Automations / Customer Success Advisor**
+## 🧑‍💼 About Me
 
-🏢 Working at **SAP** | Palo Alto, California, USA
+I am an **Executive Technical Product Manager and Development Engineer** with over **15 years of cross-functional experience** spanning product research, product management, and full-stack software engineering at global leaders including **SAP, IBM, and Bosch**.
 
-🧠 I'm passionate about **AI/ML, Product Strategy, Supply Chain Innovation & Enterprise SaaS**
+My career uniquely bridges the gap between **strategic product vision** and **hands-on technical development** — allowing me to not only define what to build and why, but also deeply understand how to build it, scale it, and bring it to market.
 
-🚀 I specialize in **AI Product Management × Product Development Engineering**
+**Product Research & Management:** Led end-to-end product strategy and go-to-market execution for B2B SaaS and enterprise platforms, generating over **$30M in annual recurring revenue** and influencing **$42M in ARR** through data-driven roadmap prioritization, customer advocacy, and cross-departmental collaboration. Shipped **14 major features in 12 months**, driven **34% increases in product adoption**, and reduced onboarding time-to-value by **52%** through UX redesign and automated provisioning. My research background includes a **Graduate Research Fellowship at IBM Germany R&D**, where I conducted hybrid cloud security research across SAP, AWS, Azure, Google, and IBM ecosystems — identifying critical vulnerabilities and publishing a white paper on **Hybrid Cloud Security Concepts**. At **Fraunhofer Institutes**, I developed IoT smart grid systems, e-learning platforms, and manufacturing analytics tools, blending academic research rigor with real-world product development.
 
-🌐 Explore my work at [**github.com/veerannas**](https://github.com/veerannas)
+**Product Development Engineering:** Deep technical proficiency in **Java (full-stack), Python, AI/ML, cloud architectures (AWS, GCP, IBM), and DevOps (CI/CD, Docker, Kubernetes, Jenkins)**. Architected and delivered scalable solutions — from enterprise payment systems handling **$20M+ in annual transactions** to AI-driven supply chain platforms processing millions of EDI transactions via X12 and cXML. Reduced development cycle times by **37%**, cut deployment times by **45%**, and leveraged AI to reduce manual testing efforts by **30%**. Engineering leadership spans building converged DevOps platforms, automating RPA workflows that saved **1,200+ staff hours annually**, and directing production deployments for global brands like **Volkswagen, BMW, Sony, and ThyssenKrupp**.
 
-💼 Connect with me on [**LinkedIn**](https://linkedin.com/in/veerannas)
+I hold a **Master of Science in Research in Computer & System Engineering** from Ilmenau University of Technology (Germany) and a **Bachelor of Engineering in Electronics & Computer Engineering** from Visvesvaraya Technological University (India). I am certified as a **PMI Agile Certified Professional (PMI-ACP)** and **Certified Scrum Product Owner (CSPO)**, with additional SAP certifications in CRM, Ariba, RPA, and CX.
 
-📫 Reach me at **veeranna.job@gmail.com**
-
-🎓 **M.Sc. Research in Computer & System Engineering** - TU Ilmenau, Germany
-
-🏆 **PMI-ACP | CSPO | SAP Certified | JAVA Certified** Professional
-
-✍️ Published research on **Hybrid Cloud Security | IoT OROP System | E-Commerce Services**
-
-🌍 Open for **Relocation** | Available for **Onsite / Hybrid** roles
-
-⚡ Fun fact: **My career uniquely bridges the gap between strategic product vision and hands-on technical development—allowing me to not only define what to build and why, but also deeply understand how to build it, scale it, and bring it to market**
+> ⚡ *"I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."*
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+## 🔍 Quick Snapshot for Hiring Managers
+
+| Category | Details |
+|:---|:---|
+| 📍 **Location** | Palo Alto, CA, USA |
+| 🛂 **Work Authorization** | ✅ U.S. Permanent — **No Sponsorship Required** |
+| 🚚 **Relocation** | ✅ Open to Relocation |
+| 🏢 **Work Mode** | Onsite / Hybrid / Remote |
+| 💰 **Revenue Impact** | $30M+ ARR Generated · $42M ARR Influenced |
+| 📦 **Products Shipped** | 14 Major Features in 12 Months |
+| 👥 **Users Impacted** | 1M+ End Users · 100+ Enterprise Clients |
+| ⏱️ **On-Time Delivery** | 96% with less than 1% Rollback Rate |
+| 🎓 **Education** | M.Sc. TU Ilmenau (Germany) · B.E. VTU (India) |
+| 📜 **Certifications** | PMI-ACP · CSPO · SAP CRM · SAP Ariba · SAP RPA |
+| 🏆 **Awards** | Spotlight Award · Employee of the Month · PM Scholarship |
+
+---
+
+## 🔭 Currently Working On
+🏢 SAP Ariba — Senior Product Manager 📦 Supply Chain Collaboration (SBN) 🤖 AI Agent Automations & Agentic Features 📊 Integrated Business Planning with S/4HANA 🎯 Customer Success Advisory & Enterprise Onboarding
+
+
+---
+
+## 🏢 Career Timeline
+2023 - Present │ 🔵 Senior Product Manager │ SAP Ariba (Supply Chain AI) │ Palo Alto, CA 2021 - 2023 │ 🔵 Senior Technical Product Manager │ SAP CX (Sales/Service CRM) │ Palo Alto, CA 2020 - 2021 │ 🔵 Technical Product Manager/Owner │ SAP America (HCM/ITAM) │ Newtown Square, PA 2018 - 2020 │ 🔵 Senior Product Owner │ SAP Deutschland SE (Cloud) │ Munich, Germany 2017 - 2017 │ 🟢 Senior Java/DevOps Engineer │ SAP Hybris (E-Commerce) │ Munich, Germany 2015 - 2016 │ 🟡 Graduate Research Fellow │ IBM Germany R&D (Cloud Security) │ Boeblingen, Germany 2013 - 2016 │ 🟡 Graduate PM/Dev Intern │ TU Ilmenau / Fraunhofer │ Ilmenau, Germany 2012 - 2013 │ 🟢 Senior Software Engineer │ Sonata Software (Java Full-Stack) │ Bangalore, India 2010 - 2012 │ 🟢 Software Engineer │ EVRY SPAN Systems (Java Full-Stack) │ Bangalore, India
+
+
+---
+
+## 📈 Key Impact Metrics
+
+| Metric | Impact |
+|:---|:---|
+| 💰 Annual Recurring Revenue | **$30M+ Generated · $42M Influenced** |
+| 📦 Feature Delivery | **14 Major Features in 12 Months** |
+| 📈 Product Adoption Increase | **34%** |
+| 👥 Monthly Active Users Growth | **35%** |
+| ⏱️ Onboarding Time-to-Value | **Reduced by 52%** |
+| 🎯 Customer Satisfaction | **Boosted by 25%** |
+| 🔄 Sales Cycle Reduction | **20% Shorter** |
+| 🛠️ Development Time Reduction | **37% Faster** |
+| 🚀 Deployment Time Reduction | **45% Faster** |
+| 🤖 Manual Testing Reduction | **30% via AI** |
+| ✅ On-Time Delivery Rate | **96% with less than 1% Rollback** |
+| 👨‍💻 Enterprise Clients Served | **100+ including Luxottica, Bosch, Philips, TUI** |
+| 🌍 Users Impacted | **1M+ Globally** |
+
+---
+
+## 🛠️ Technical Skills & Expertise
+
+### 🎯 Product Management
+Technical Product Management · AI Product Management · Product Ownership · Portfolio Management Product Vision & Strategy · Roadmap Prioritization · Go-to-Market Strategy · Customer Advocacy Stakeholder Engagement · Usability Testing · Risk Mitigation · Agile/Scrum · Program Management
+
+
+### 🏗️ Domain Knowledge
+Supply Chain (SBN/SCC) · CRM (Sales & Service) · ERP (S/4HANA) · AI/ML · RPA eCommerce · Cloud Security · IoT · Asset Management · BI & Analytics · HCM
+
+
+---
+
+### 💻 Languages and Tools
+
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
   </a>
   <a href="https://groovy-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/groovy/groovy-original.svg" alt="groovy" width="45" height="45"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/>
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="45" height="45"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
   </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="45" height="45"/>
   </a>
   <a href="https://jquery.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="45" height="45"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="45" height="45"/>
   </a>
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="45" height="45"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://hibernate.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://grails.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grails/grails-original.svg" alt="grails" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="45" height="45"/>
   </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="45" height="45"/>
   </a>
   <a href="https://www.sap.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="45" height="45"/>
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="45" height="45"/>
   </a>
   <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/>
   </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="45" height="45"/>
   </a>
   <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
-  </a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="maven" width="40" height="40"/>
-  </a>
-  <a href="https://gradle.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gradle/gradle-original.svg" alt="gradle" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="45" height="45"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="45"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="45" height="45"/>
   </a>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
   </a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
   </a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="45" height="45"/>
   </a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="45" height="45"/>
   </a>
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="45" height="45"/>
   </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/dynamodb/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dynamodb/dynamodb-original.svg" alt="dynamodb" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="45" height="45"/>
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
   </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="45" height="45"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
   </a>
-  <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg" alt="jira" width="40" height="40"/>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="45" height="45"/>
   </a>
   <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original-wordmark.svg" alt="confluence" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/atlassian/atlassian-icon.svg" alt="confluence" width="45" height="45"/>
   </a>
 </p>
 
 ---
 
-### GitHub Stats
+## 🎓 Education & Certifications
+
+| Type | Details | Institution |
+|:---|:---|:---|
+| 🎓 **M.Sc.** | Research in Computer & System Engineering (2015) | TU Ilmenau, Germany |
+| 🎓 **B.E.** | Electronics & Computer Engineering (2010) | VTU, India |
+| 📜 **PMI-ACP** | Agile Certified Professional | Project Management Institute |
+| 📜 **CSPO** | Certified Scrum Product Owner | Scrum Alliance |
+| 📜 **SAP CRM** | Sales & Service Cloud Certified | SAP America |
+| 📜 **SAP Ariba** | SCC Certified | SAP Ariba |
+| 📜 **SAP RPA** | Robotic Process Automation Certified | SAP America |
+
+---
+
+## 🏆 Awards & Recognition
+
+| Award | Organization |
+|:---|:---|
+| 🏅 Spotlight Award | SAP America / SAP Ariba |
+| 🏅 Employee of the Month | SAP CX / Sonata / SPAN |
+| 🏅 Thank Award | SAP Labs |
+| 🏅 Explore Possibilities Award | SAP SE |
+| 🏅 Keep the Promise Certificate | SAP America |
+| 🎓 Master's Germany Scholarship | Fraunhofer Institute |
+| 🎓 Prime Minister Scholarship | Indian Government |
+
+---
+
+## 📚 Publications & Research
+
+| Publication | Organization |
+|:---|:---|
+| 📄 E-Commerce Services Platform | Entrepreneurial Product |
+| 📄 Hybrid Cloud Security Concepts | IBM Germany R&D |
+| 📄 E-Learning & Assessment Systems | Fraunhofer IDMT |
+| 📄 Internet of Things OROP System | Fraunhofer IOSB |
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veerannas&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=veerannas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=veerannas&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veerannas&theme=radical" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerannas&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages"/>
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerannas&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=veerannas&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=veerannas&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="mailto:veeranna.job@gmail.com">
+    <img src="https://img.shields.io/badge/Email-veeranna.job%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/veerannas">
+    <img src="https://img.shields.io/badge/LinkedIn-veerannas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/veerannas">
+    <img src="https://img.shields.io/badge/GitHub-veerannas-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="tel:+16695296872">
+    <img src="https://img.shields.io/badge/Phone-669--529--6872-25D366?style=for-the-badge&logo=googlevoice&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <b>📍 Palo Alto, CA, USA</b> &nbsp;|&nbsp; <b>✅ No Sponsorship Required</b> &nbsp;|&nbsp; <b>🚚 Open to Relocation</b> &nbsp;|&nbsp; <b>🏢 Onsite / Hybrid</b>
+</p>
+
+<br/>
+
+<p align="center">
+  <i>⚡ "I bridge the gap between Product Vision and Engineering Execution — I don't just define what to build, I know how to build it."</i>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </p>
