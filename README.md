@@ -6,7 +6,7 @@
 - 📫 Reach me at **veeranna.job@gmail.com**
 
 
-- <h2> About Me </h2>
+<h2> About Me </h2>
 
 **🌱 My career uniquely bridges the gap between strategic product vision and hands-on technical development—allowing me to not only define what to build and why, but also deeply understand how to build it, scale it, and bring it to market.
 
